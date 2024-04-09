@@ -2,8 +2,8 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2024-04-09)
+------------------
 * Update vendored version
 * Add support for the `<pkg>::<pkg>` and `<pkg>::all` targets
 * Require calling find_package on the underlying package
