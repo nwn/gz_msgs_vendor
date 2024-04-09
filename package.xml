@@ -12,7 +12,7 @@
   -->
   <version>0.0.1</version>
   <description>
-    Vendor package for: gz-msgs10 10.1.1
+    Vendor package for: gz-msgs10 10.1.2
 
     Gazebo Messages: Protobuf messages and functions for robot applications
   </description>
