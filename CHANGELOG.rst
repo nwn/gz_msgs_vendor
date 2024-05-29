@@ -2,6 +2,11 @@
 Changelog for package gz_msgs_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Update underlying version to 10.2.0
+* Contributors: Addisu Z. Taddese
+
 0.1.0 (2024-04-23)
 ------------------
 * Use an alias target for root library
